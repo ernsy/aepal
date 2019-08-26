@@ -37,7 +37,7 @@ const contractSource = `
 `;
 
 //Address of the meme voting smart contract on the testnet of the aeternity blockchain
-const contractAddress = 'ct_2WRcJSeKyphdnTqRhjLNMyyk2W2QHRgzpYftMM9KcrBRR57akE';
+const contractAddress = 'ct_v2oaoCZDS51Q3e5zoCRRd2WfVRfVdpsDgfrQTRSHyrJA1VbaP';
 //Create variable for client so it can be used in different functions
 var client = null;
 //Create a new global array for the memes
